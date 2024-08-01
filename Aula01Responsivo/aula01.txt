@@ -1,0 +1,14 @@
+RESPONSIVO:
+    Um layout responsivo se adapta a diferentes tipos/tamanhos de tela e as preferências do usuário.
+
+    * Tamanhos:
+      Unidades relativas como %, vw, fr são mais utilizadas.
+
+    * Media Queries:
+      Código será ativado de acordo com o tamanho da tela. Alterar o layout, esconder itens e adicionar funcionalidades.
+
+    * Flexbox e Grid:
+      Manipulamos o flexbox e o grid para adaptar o conteúdo.
+
+    * Tipo de tela:
+      Temos que elevar em consideração a operação do site apenas com o dedo.
