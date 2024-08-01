@@ -12,3 +12,10 @@ RESPONSIVO:
 
     * Tipo de tela:
       Temos que elevar em consideração a operação do site apenas com o dedo.
+
+META VIEWPORT:
+    A meta tag viewport é essencial para garantir com que o HTML/CSS lide de forma correta com telas e alta densidade. Ela normaliza o PX do CSS
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
